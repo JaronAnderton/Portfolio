@@ -117,7 +117,7 @@
   }
   
   .page-wrapper {
-    max-width: 88%;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
   }
@@ -173,7 +173,6 @@
     font-size: 0.9rem;
   }
   
-  /* feature first portfolio item */
   .flex-item:first-child {
       min-height: 400px;
       flex-basis: 100%;
